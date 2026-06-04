@@ -111,7 +111,7 @@ Public testing and expanded feature development are planned for future releases.
 ## Screenshots
 
 ### Entry Screen
-![Entry Screen](doc/images/entry-screen.jpg)
+![Entry Screen](docs/images/entry-screen.jpg)
 ### Year Summary Screen
 ![Year Summary](docs/images/year-summary.jpg)
 ### Navigation Drawer
