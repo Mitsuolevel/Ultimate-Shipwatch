@@ -111,13 +111,13 @@ Public testing and expanded feature development are planned for future releases.
 ## Screenshots
 
 ### Entry Screen
-![Entry Screen](doc/images/entry-screen.png)
+![Entry Screen](doc/images/entry-screen.jpg)
 ### Year Summary Screen
-![Year Summary](docs/images/year-summary.png)
+![Year Summary](docs/images/year-summary.jpg)
 ### Navigation Drawer
-![Navigation](docs/images/navigation.png)
+![Navigation](docs/images/navigation.jpg)
 ### Sightings Screen
-![Sightings](docs/images/Sightings.png)
+![Sightings](docs/images/Sightings.jpg)
 
 ---
 
